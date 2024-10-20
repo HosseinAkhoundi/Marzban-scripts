@@ -20,7 +20,7 @@ sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/
 ## Installing Marzban-node
 Install Marzban-node on your server using this command
 ```bash
-sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/marzban-node.sh)" @ install
+sudo bash -c "$(curl -sL https://github.com/HosseinAkhoundi/Marzban-scripts/raw/master/marzban-node.sh)" @ install
 ```
 Install Marzban-node on your server using this command with custom name:
 ```bash
