@@ -284,7 +284,7 @@ install_marzban_node() {
 services:
   marzban-node:
     container_name: $APP_NAME
-    image: gozargah/marzban-node:latest
+    image: docker.arvancloud.ir/gozargah/marzban-node:latest
     restart: always
     network_mode: host
     environment:
